@@ -2,6 +2,10 @@
 
 [Retour](../README.md)
 
+## Correction
+[Cliquer pour voir une correction](https://github.com/techmindconsulting/workshop-python/blob/correction/tp-1-guess-number/main.py)
+
+
 Le but de ce projet est de permettre à un joueur d'essayer de deviner un nombre mystère généré aléatoirement par l'ordinateur, en 5 essais ou moins.
 
 ## Completer ce script
@@ -29,7 +33,7 @@ while True:
 - Les boucles
 - Condition
 
-## Déroulé du script
+## Description
 
 Au début du script, vous devez générer un nombre aléatoire compris entre 0 et 10 (vous pouvez agrandir ou réduire cet intervalle pour simplifier ou complexifier le jeu).
 

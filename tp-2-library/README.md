@@ -2,6 +2,10 @@
 
 [Retour](../README.md)
 
+## Correction
+[Cliquer pour voir une correction](https://github.com/techmindconsulting/workshop-python/blob/correction/tp-2-library/main.py)
+
+
 Dans ce projet, vous allez devoir créer un programme en ligne de commande qui permet de manipuler une liste de livres.
 
 
@@ -17,7 +21,7 @@ Notions techniques à appliquer
 - Les fonctions
 - La gestions des erreurs
 
-Déroulé du script
+Description
 Par définition, dans notre programme library.py un livre est défini par son titre, son prix et le nombre de livre en stock
 
 Exemple:
