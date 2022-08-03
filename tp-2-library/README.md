@@ -130,6 +130,8 @@ Pour le programme puisse se lancer, il faudra appeler la fonction start
 start()
 ```
 
+[Récupérer le fichier à compléter](https://raw.githubusercontent.com/techmindconsulting/workshop-python/main/tp-2-library/main.py)
+
 ## Documentation
 - [L'instruction pass](https://docs.python.org/fr/3/tutorial/controlflow.html#pass-statements)
 

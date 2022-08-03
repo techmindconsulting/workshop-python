@@ -43,6 +43,8 @@ Dans le cas d'une victoire, vous devez indiquer au joueur combien d'essais ont �
 
 Si le joueur ne trouve pas le nombre mystère avec les 5 essais disponibles, il perd la partie.
 
+[https://raw.githubusercontent.com/techmindconsulting/workshop-python/main/tp-1-guess-number/main.py](Récupérer le fichier à compléter)
+
 ## Documentation
 
 - [Les nombres](https://docs.python.org/fr/3/tutorial/introduction.html#numbers)
