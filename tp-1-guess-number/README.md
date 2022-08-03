@@ -5,6 +5,7 @@
 ## Correction
 [Cliquer pour voir une correction](https://github.com/techmindconsulting/workshop-python/blob/correction/tp-1-guess-number/main.py)
 
+## Présentation
 
 Le but de ce projet est de permettre à un joueur d'essayer de deviner un nombre mystère généré aléatoirement par l'ordinateur, en 5 essais ou moins.
 

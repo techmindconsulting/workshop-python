@@ -3,14 +3,15 @@
 [Retour](../README.md)
 
 ## Correction
+
 [Cliquer pour voir une correction](https://github.com/techmindconsulting/workshop-python/blob/correction/tp-2-library/main.py)
 
+## Présentation
 
 Dans ce projet, vous allez devoir créer un programme en ligne de commande qui permet de manipuler une liste de livres.
 
 
-Notions techniques à appliquer
-
+## Notions techniques à appliquer
 
 - Affichage avec les chaines formatés (f-string => {})
 - Saisie utilisateurs
@@ -21,7 +22,8 @@ Notions techniques à appliquer
 - Les fonctions
 - La gestions des erreurs
 
-Description
+## Description
+
 Par définition, dans notre programme library.py un livre est défini par son titre, son prix et le nombre de livre en stock
 
 Exemple:
@@ -135,6 +137,7 @@ start()
 ```
 
 ## Documentation
+
 - [L'instruction pass](https://docs.python.org/fr/3/tutorial/controlflow.html#pass-statements)
 
 - [L'instruction match](https://docs.python.org/fr/3/tutorial/controlflow.html#match-statements)
