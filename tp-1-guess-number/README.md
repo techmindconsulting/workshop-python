@@ -29,7 +29,7 @@ while True:
 - Les boucles
 - Condition
 
-## Déroulé du script
+## Description
 
 Au début du script, vous devez générer un nombre aléatoire compris entre 0 et 10 (vous pouvez agrandir ou réduire cet intervalle pour simplifier ou complexifier le jeu).
 

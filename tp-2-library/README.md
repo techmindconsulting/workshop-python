@@ -17,7 +17,7 @@ Notions techniques à appliquer
 - Les fonctions
 - La gestions des erreurs
 
-Déroulé du script
+Description
 Par définition, dans notre programme library.py un livre est défini par son titre, son prix et le nombre de livre en stock
 
 Exemple:
