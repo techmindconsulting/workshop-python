@@ -2,11 +2,12 @@
 
 [Retour](../README.md)
 
+## Présentation
+
 Dans ce projet, vous allez devoir créer un programme en ligne de commande qui permet de manipuler une liste de livres.
 
 
-Notions techniques à appliquer
-
+## Notions techniques à appliquer
 
 - Affichage avec les chaines formatés (f-string => {})
 - Saisie utilisateurs
@@ -17,7 +18,8 @@ Notions techniques à appliquer
 - Les fonctions
 - La gestions des erreurs
 
-Description
+## Description
+
 Par définition, dans notre programme library.py un livre est défini par son titre, son prix et le nombre de livre en stock
 
 Exemple:

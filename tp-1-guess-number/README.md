@@ -2,6 +2,8 @@
 
 [Retour](../README.md)
 
+## Présentation
+
 Le but de ce projet est de permettre à un joueur d'essayer de deviner un nombre mystère généré aléatoirement par l'ordinateur, en 5 essais ou moins.
 
 ## Completer ce script
