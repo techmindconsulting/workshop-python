@@ -71,6 +71,11 @@ python -m flake8 .
 pip freeze > requirements.txt
 ```
 
+## Exemple projet utilsant des paquets et module
+- https://github.com/sfinx13/scaffolder_dirs_accounting
+- https://github.com/sfinx13/fundraising-webscrapper
+- https://github.com/sfinx13/demo-poo-python
+
 
 ## Documentation
 - [Les modules en détail](https://docs.python.org/fr/3/tutorial/modules.html#more-on-modules)
