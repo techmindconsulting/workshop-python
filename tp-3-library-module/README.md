@@ -4,8 +4,8 @@
 
 ## Présentation
 
-Dans ce projet, vous allez devoir rendre modulaire le projet précédent en proposant une arboresence avec paquets et/ou modules, 
-vous devez aussi respecter les standard pep8 en installant la paquet flake8 dans un environnement virtuelles.
+Dans ce projet, vous allez devoir rendre modulaire le projet précédent en proposant une arboresence avec paquets et/ou modules ce qui vous semple le plus cohérent, 
+vous devez aussi respecter les standards pep8 en installant la paquet flake8 dans un environnement virtuelles.
 
 
 ![Arboresence](https://files.realpython.com/media/pkg2.dab97c2f9c58.png)
