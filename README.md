@@ -9,4 +9,4 @@
 
 ## [TP 4 : Sauvegarder et charger la librarie depuis un fichier csv](tp-4-library-csv/README.md)
 
-## [TP 5 : Hacker news](tp-5-hacker-news-api/README.md)
+## [TP 5 : Hacker news api](tp-5-hacker-news-api/README.md)
