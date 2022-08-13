@@ -38,7 +38,11 @@ L'appel suivant renvoie des informations sur l'article 19155826.
 [https://hacker-news.firebaseio.com/v0/item/19155826.json](https://hacker-news.firebaseio.com/v0/item/19155826.json)
 
 La clé 'descendants' nous indique le nombre de commentaires que l'article a reçu
+L'url de discussion devra etre cree comme l'exemple ci dessous
 
+```
+http://news.ycombinator.com/item?id={submission_id}
+```
 
 ## Notions techniques à appliquer
 
