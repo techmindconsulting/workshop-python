@@ -37,14 +37,21 @@ L'appel suivant renvoie des informations sur l'article 19155826.
 
 [https://hacker-news.firebaseio.com/v0/item/19155826.json](https://hacker-news.firebaseio.com/v0/item/19155826.json)
 
+La clé 'descendants' nous indique le nombre de commentaires que l'article a reçu
+
 
 ## Notions techniques à appliquer
 
-
-## Description
+* module json
+* librarie requests
 
 
 ## Documentation
+
+* [Libraririe request](https://requests.readthedocs.io/en/latest/)
+* [JSON](https://docs.python.org/fr/3/library/json.html)
+
+
 
 
 [Retour](../README.md)
