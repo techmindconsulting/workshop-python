@@ -11,3 +11,4 @@
 
 ## [TP 5 : Hacker news API](tp-5-hacker-news-api/README.md)
 
+## [TP 6 : Hacker news API](tp-6-add-logs-library/README.md)
