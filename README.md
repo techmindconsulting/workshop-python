@@ -11,4 +11,4 @@
 
 ## [TP 5 : Hacker news API](tp-5-hacker-news-api/README.md)
 
-## [TP 6 : Gestion des logs](tp-6-add-logs-library/README.md)
+## [TP 6 : Tracer l'application](tp-6-add-logs-library/README.md)
