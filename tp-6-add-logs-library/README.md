@@ -21,10 +21,10 @@
 
 ## Présentation
 
-Dans ce projet, vous allez devoir ajouter un fichier de log afin de tracer votre application à chaque appel de fonction. 
-Vous allez devoir dans centraliser votre logique dans une fonction decorateuR et decorer toutes les fonctions de votre programme.
+Dans l'application de gestion de librairie, vous allez devoir ajouter un fichier de log afin de tracer l'application à chaque appel de fonction. 
+Vous allez devoir centraliser votre logique dans une fonction decorateur et decorer toutes les fonctions de votre programme.
 
-Le fichier de log `app.log` doit se trouver dans un repertoire log à la racine du projet
+Le fichier de log se nomme `app.log` et doit se trouver dans un repertoire log à la racine du projet
 Le programme se chargera de créer le repertoire s'il n'existe pas.
 
 Le niveau de log doit être INFO
@@ -35,11 +35,7 @@ Exemple d'une ligne de log
 [2022-08-16 21:26:15] INFO: Appel de la fonction `search`
 ```
 
-## Notions techniques à appliquer
-
-- Decorator
-- Module OS
-- Module log 
+Exemple avec le module logging
 
 ```
 import logging
@@ -63,6 +59,14 @@ for name in ['John', 'Jack', 'Nicole', 'Samy', 'Sofy']:
 [2022-08-16 21:55:38] INFO: Hello, world Sofy!
 ```
 
+
+## Notions techniques à appliquer
+
+- Decorator
+- Module OS
+- Module logging
+
+
 ## Description
 
 Au démarrage de l'application je dois pouvoir charger le CSV, nous pourrons le vérifier via la fonction "Afficher les livres"
@@ -75,7 +79,7 @@ Je dois pouvoir sauvegarder lorsque l'erreur KeyboardInterrupt est intercepté
 ## Documentation
 - [Logger dans un fichier](https://docs.python.org/fr/3/howto/logging.html#logging-to-a-file)
 - [Afficher l'horodatage dans les messages] (https://docs.python.org/fr/3/howto/logging.html#displaying-the-date-time-in-messages)
-- [Journalisatiopn](https://docs.python.org/fr/3/tutorial/stdlib2.html#logging)
+- [Journalisation](https://docs.python.org/fr/3/tutorial/stdlib2.html#logging)
 - [Decorator](https://book.pythontips.com/en/latest/decorators.html#writing-your-first-decorator)
 - [Geneartor](https://docs.python.org/fr/3/tutorial/classes.html#generators)
 
