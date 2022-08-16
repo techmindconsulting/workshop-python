@@ -1,4 +1,4 @@
-# TP 6 - Gestion des logs
+# TP 6 - Tracer l'application
 
 [Retour](../README.md)
 
