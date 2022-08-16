@@ -55,6 +55,13 @@ for name in ['John', 'Jack', 'Nicole', 'Samy', 'Sofy']:
     logging.info(f'Hello, world {name}!')
 ```
 
+```
+[2022-08-16 21:55:38] INFO: Hello, world John!
+[2022-08-16 21:55:38] INFO: Hello, world Jack!
+[2022-08-16 21:55:38] INFO: Hello, world Nicole!
+[2022-08-16 21:55:38] INFO: Hello, world Samy!
+[2022-08-16 21:55:38] INFO: Hello, world Sofy!
+```
 
 ## Description
 
