@@ -8,3 +8,7 @@
 ## [TP 3 : Modulariser l'application de gestion de la librairie](tp-3-library-module/README.md)
 
 ## [TP 4 : Sauvegarder et charger la librarie depuis un fichier csv](tp-4-library-csv/README.md)
+
+## [TP 5 : Hacker news API](tp-5-hacker-news-api/README.md)
+
+## [TP 6 : Tracer l'application](tp-6-add-logs-library/README.md)
