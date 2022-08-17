@@ -1,1 +1,4 @@
 .vscode
+tp-3-library-module/**/__pycache__/
+tp-4-library-csv/**/__pycache__/
+*/.env/
