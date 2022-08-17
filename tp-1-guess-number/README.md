@@ -48,6 +48,37 @@ Dans le cas d'une victoire, vous devez indiquer au joueur combien d'essais ont �
 
 Si le joueur ne trouve pas le nombre mystère avec les 5 essais disponibles, il perd la partie.
 
+## Allez plus loin
+Proposer une nouvelle plage de nombre selon le nombre saisi
+Afficher le compteur d'essai à chaque saisi
+
+### Démonstration 
+
+```
+Essai n°1 - Saisir un nombre un nombre entre 1 et 100 : 55
+55 est trop petit
+Essai n°2 - Saisir un nombre un nombre entre 55 et 100 : 78
+78 est trop grand
+Essai n°3 - Saisir un nombre un nombre entre 55 et 78 : 65
+65 est trop grand
+Essai n°4 - Saisir un nombre un nombre entre 55 et 65 : 58
+GAGNE :D! Trouvé au bout de 4 tentative(s)
+```
+
+```
+Essai n°1 - Saisir un nombre un nombre entre 1 et 100 : 1
+1 est trop petit
+Essai n°2 - Saisir un nombre un nombre entre 1 et 100 : 2
+2 est trop petit
+Essai n°3 - Saisir un nombre un nombre entre 2 et 100 : 3
+3 est trop petit
+Essai n°4 - Saisir un nombre un nombre entre 3 et 100 : 4
+4 est trop petit
+Essai n°5 - Saisir un nombre un nombre entre 4 et 100 : 5
+5 est trop petit
+PERDU :(! Le nombre aléatoire était 20
+```
+
 ## Documentation
 
 - [Les nombres](https://docs.python.org/fr/3/tutorial/introduction.html#numbers)
