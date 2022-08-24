@@ -3,10 +3,6 @@
 
 [Retour](../README.md)
 
-## Démo 
-
-**Dans vos programmes, toujours utiliser le decorateur avec le @**
-
 
 ## Présentation
 
@@ -32,6 +28,8 @@ Voici donc l'arboresence du projet
     ├── application.py
     └── main.py
 ```
+
+Le decorateur de classe vous est fourni, adapater l'affichage afin qu'il reprenne le format de votre ancienne application.
 
 Vous êtes libres de modifier la structure ou de rajouter une ou plusieurs classes si vous en voyez la pertinence.
 
