@@ -12,7 +12,7 @@ Chaque classe aura un objet particulier, vous devrez dans le repo les classes à
 
 Vous choisiserez une source de stockage au choix CSV ou JSON
 
-Votre projet doit respecter les standard PEP 8
+Votre projet doit respecter les standards PEP 8
 
 Voici donc l'arboresence du projet
 ```
