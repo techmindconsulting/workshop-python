@@ -74,7 +74,6 @@ pip freeze > requirements.txt
 ## Exemple projet utilsant des paquets et module
 - https://github.com/sfinx13/scaffolder_dirs_accounting
 - https://github.com/sfinx13/fundraising-webscrapper
-- https://github.com/sfinx13/demo-poo-python
 
 
 ## Documentation
@@ -82,6 +81,6 @@ pip freeze > requirements.txt
 - [Les paquets](https://docs.python.org/fr/3/tutorial/modules.html#packages)
 - [Environnement virtuels et paquets](https://docs.python.org/fr/3/tutorial/venv.html?highlight=pip)
 - [Spécification PEP8](https://peps.python.org/pep-0008/)
-
+- [Mise en place environnement python](https://openclassrooms.com/fr/courses/6951236-mettez-en-place-votre-environnement-python)
 
 [Retour](../README.md)
